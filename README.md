@@ -32,7 +32,6 @@ Use this space to:
 <a href="https://github.com/jamesmckechnie/design-examples/issues/new?assignees=&labels=question&template=start-a-discussion.md&title=%5BInsert+question+here%5D+">Start a discussion</a>
 
 1. Before posting ensure your question has not already been answered on the questions project space
-2. Be as specific as you can be when asking a question
 3. Add images, user research or any additional information if this could help with understanding 
 4. Add some tags to help people find it
 5. Share question on our slack channel to ensure people see it
