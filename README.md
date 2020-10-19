@@ -20,7 +20,7 @@ Use this space to:
 
 <a href="https://github.com/jamesmckechnie/design-examples/issues/new?assignees=&labels=&template=share-some-work.md&title=">Share a piece of work</a>
 
-1. Check you are able to share - ask your team and read our <a href="#">security guidlines</a>
+1. Check you are able to share - ask your team and read our <a href="#">security guidelines</a>
 2. Upload images 
 3. Add as much supporting information as you can to help other designers
 4. Add tags to help other designers find it
