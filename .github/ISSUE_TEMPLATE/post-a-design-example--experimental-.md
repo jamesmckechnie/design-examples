@@ -13,4 +13,4 @@ assignees: ''
 
 ## Additional information [optional]
 
-[Add additional information to help other designers (contact details, team details, references you used)
+[Add additional information to help other designers (contact details, team details, references you used)]
