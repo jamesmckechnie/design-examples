@@ -1,6 +1,3 @@
-# design-examples
-Use this platform to explore design examples, share you work with other designers or take part in community discussions
-
 <h1>Home Office Design Examples</h1> 
 
 <b>This is a forum for the Home Office UCD community to explore interaction and content design examples, share work with other designers and to take part in community discussions</b>
