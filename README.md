@@ -20,6 +20,11 @@ Use this space to:
 
 <a href="https://github.com/jamesmckechnie/design-examples/issues/new?assignees=&labels=&template=share-some-work.md&title=">Share a piece of work</a>
 
+1. Check you are able to share - ask your team and read our <a href="#">security guidlines</a>
+2. Upload images 
+3. Add as much supporting information as you can to help other designers
+4. Add tags to help other designers find it
+
 <h2>How to start a discussion</h2> 
 
 <p>Start a discussion about a topic or ask a question to the community</p>
@@ -29,4 +34,5 @@ Use this space to:
 1. Before posting ensure your question has not already been answered on the questions project space
 2. Be as specific as you can be when asking a question
 3. Add images, user research or any additional information if this could help with understanding 
-4. Share question on our slack channel to ensure people see it
+4. Add some tags to help people find it
+5. Share question on our slack channel to ensure people see it
