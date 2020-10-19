@@ -1,7 +1,6 @@
 ---
 name: Post a design example [alpha, beta and live]
-about: Use this template to help with structure when posting about an alpha, beta
-  or live project.
+about: Help structure your post about an alpha, beta or live project
 title: ''
 labels: ''
 assignees: ''
