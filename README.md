@@ -50,24 +50,24 @@ Use this space to:
 
 3. Write a description and add images using the rich text editor
 
-![Write a description](https://media.giphy.com/media/i0kZjsbE3YJLXVP14b/giphy.gif)
+![Write a description](https://media.giphy.com/media/jtUrIOvhxgOQQYcHIe/giphy.gif)
 
 4. Add relevant labels to your post to make it more discoverable
 
-![Add labels](link)
+![Add labels](https://media.giphy.com/media/8C60wJGntGYYWmUjc8/giphy.gif)
 
 5. Add it to the Design examples project
 
-![Add to a project](link)
+![Add to a project](https://media.giphy.com/media/2FS4bl0xG28cO70jRS/giphy.gif)
 
 6. Share by clicking on "Sumbit new issue"
 
-![Sumbit new issue](link)
+![Sumbit new issue](https://media.giphy.com/media/BkMpUl3897ciggo4vh/giphy.gif)
 
 7. Navigate back to the project space
 
-![Navigate to project](link)
+![Navigate to project](https://media.giphy.com/media/L1LrpPrC8GRBSqOFZL/giphy.gif)
 
 8. Drag and drop your card from the new channel into the appropriate channel
 
-![Drag and drop](link)
+![Drag and drop](https://media.giphy.com/media/Z1M4DKn0ZvofkpPUnm/giphy.gif)
