@@ -25,7 +25,8 @@ Use this space to:
 1. Check you are able to share - ask your team and read our <a href="#">security guidelines</a>
 2. Upload images 
 3. Add as much supporting information as you can to help other designers
-4. Add tags to help other designers find it
+4. Add tags to help people find it
+5. Post and drag your question to the "Share some work examples or insight" lane
 
 <h2>How to start a discussion</h2> 
 
@@ -34,6 +35,6 @@ Use this space to:
 <a href="https://github.com/jamesmckechnie/design-examples/issues/new?assignees=&labels=question&template=start-a-discussion.md&title=%5BInsert+question+here%5D+">Start a discussion</a>
 
 1. Before posting ensure your question has not already been answered on the questions project space
-3. Add images, user research or any additional information if this could help with understanding 
-4. Add some tags to help people find it
-5. Share question on our slack channel to ensure people see it
+2. Add images, user research or any additional information if this could help with understanding 
+3. Add some tags to help people find it
+4. Post and drag your question to the "Start or join a discussion" lane
