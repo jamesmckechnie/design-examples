@@ -43,4 +43,4 @@ assignees: ''
 
 ## Additional information [optional]
 
-[Add additional information to help other designers, like your contact or team details and the references you used. You can also include links to relevant Design System pages or backlog and the service where your example was used, if available)
+[Add additional information to help other designers, like your contact or team details and the references you used. You can also include links to relevant Design System pages or backlog and the service where your example was used, if available]
