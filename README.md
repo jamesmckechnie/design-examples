@@ -56,7 +56,7 @@ Use this space to:
 
 ![Add labels](https://media.giphy.com/media/8C60wJGntGYYWmUjc8/giphy.gif)
 
-5. Add it to the Design examples project
+5. Add it to the design discussion project
 
 ![Add to a project](https://media.giphy.com/media/2FS4bl0xG28cO70jRS/giphy.gif)
 
