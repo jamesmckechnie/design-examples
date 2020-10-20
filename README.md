@@ -1,32 +1,32 @@
-<h1>Home Office Design Examples</h1> 
+<h1>Home Office Design Discussion</h1> 
 
-<b>This is a forum for the Home Office UCD community to explore interaction and content design examples, share work with other designers and to take part in community discussions</b>
+<b>This is a forum for the Home Office UCD community to explore interaction and content design examples, share work with other designers and take part in community discussions</b>
 
-<a href="https://github.com/jamesmckechnie/design-examples/projects"><h2>Go to the project space</h2></a> 
+<a href="https://github.com/jamesmckechnie/design-examples/projects/1"><h2>Go to the project space</h2></a> 
 
 Use this space to: 
 
-<li> ask questions about a style, component, pattern and content
+<li>ask questions about a style, component, pattern or piece of content
 
 <li>answer questions from other contributors 
 
-<li>share examples or demos of a component, pattern or content
+<li>share screenshots or demos of a project you're working on
 
-<li>share research relating to a style, component, pattern or content
+<li>share research or other insights relating to a style, component, pattern or piece of content
 
-<br> 
+<br>  
 
 <h2>Guidelines for sharing a piece of work</h2> 
 
-<p>Share examples of a component, pattern or piece of work you have done</p>
+<p>Share examples of a component, a pattern or a piece of content</p>
 
 <a href="https://github.com/jamesmckechnie/design-examples/issues/new?assignees=&labels=&template=share-some-work.md&title=">Share a piece of work</a>
 
 1. Check you are able to share - ask your team and read our <a href="#">security guidelines</a>
-2. Upload images 
-3. Add as much supporting information as you can to help other designers
-4. Add labels to help people find it and milestones to give context 
-5. Post and drag your question to the "Share some work examples or insight" lane
+2. Upload images or gifs
+3. Add as much supporting information as you can to help other designers, including research and links
+4. Add labels to help people find your submission and milestones to give context 
+5. Post and drag your question to the "Share some work or insight" lane
 
 <h2>Guidelines for starting a discussion</h2> 
 
@@ -39,8 +39,8 @@ Use this space to:
 3. Add some labels to help people find it
 4. Post and drag your question to the "Start or join a discussion" lane
 
-<h2>How to start a dsicussion or share your work</h2>
-1. Click on "Start a new discussion" or "Share your work"
+<h2>How to start a discussion or share your work</h2>
+1. Click on "Start or join a new discussion" or "Share your work"
 
 ![Start a discussion](https://media.giphy.com/media/GBvMN4B6bHo6yqnPbN/giphy.gif)
 
