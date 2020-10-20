@@ -2,6 +2,8 @@
 
 <b>This is a forum for the Home Office UCD community to explore interaction and content design examples, share work with other designers and to take part in community discussions</b>
 
+<a href="https://github.com/jamesmckechnie/design-examples/projects">Go to the project space</a> 
+
 Use this space to: 
 
 <li> ask questions about a style, component, pattern and content
