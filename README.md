@@ -25,7 +25,7 @@ Use this space to:
 1. Check you are able to share - ask your team and read our <a href="#">security guidelines</a>
 2. Upload images 
 3. Add as much supporting information as you can to help other designers
-4. Add tags to help people find it
+4. Add labels to help people find it and milestones to give context 
 5. Post and drag your question to the "Share some work examples or insight" lane
 
 <h2>Guidelines for starting a discussion</h2> 
@@ -36,11 +36,11 @@ Use this space to:
 
 1. Before posting ensure your question has not already been answered on the questions project space
 2. Add images, user research or any additional information if this could help with understanding 
-3. Add some tags to help people find it
+3. Add some labels to help people find it
 4. Post and drag your question to the "Start or join a discussion" lane
 
 <h2>How to</h2>
-1. Click on 'start a new discussion' or 'share your work'
+1. Click on "Start or join a new discussion" or "Share your work"
 
 ![Start a discussion](https://media.giphy.com/media/GBvMN4B6bHo6yqnPbN/giphy.gif)
 
@@ -60,7 +60,7 @@ Use this space to:
 
 ![Add to a project](link)
 
-6. Share by clicking on 'sumbit new issue'
+6. Share by clicking on "Sumbit new issue"
 
 ![Sumbit new issue](link)
 
