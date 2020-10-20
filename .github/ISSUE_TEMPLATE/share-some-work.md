@@ -9,10 +9,10 @@ assignees: ''
 
 [Delete me:
 1. Check you are able to share - ask your team and read our <a href="#">security guidelines</a>
-2. Upload images 
-3. Add as much supporting information as you can to help other designers
-4. Add tags to help people find it
-5. Post and drag your question to the "Share some work examples or insight" lane]
+2. Add images and supporting information
+3. Add tags to help people find it
+4. Post
+5. Got to Projects space and drag your post to "Share some work or insights" lane]
 
 
 # [Give your example a name] 
