@@ -39,8 +39,8 @@ Use this space to:
 3. Add some labels to help people find it
 4. Post and drag your question to the "Start or join a discussion" lane
 
-<h2>How to</h2>
-1. Click on "Start or join a new discussion" or "Share your work"
+<h2>How to start a dsicussion or share your work</h2>
+1. Click on "Start a new discussion" or "Share your work"
 
 ![Start a discussion](https://media.giphy.com/media/GBvMN4B6bHo6yqnPbN/giphy.gif)
 
