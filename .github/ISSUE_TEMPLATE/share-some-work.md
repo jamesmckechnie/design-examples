@@ -7,6 +7,14 @@ assignees: ''
 
 ---
 
+[Delete me:
+1. Check you are able to share - ask your team and read our <a href="#">security guidelines</a>
+2. Upload images 
+3. Add as much supporting information as you can to help other designers
+4. Add tags to help people find it
+5. Post and drag your question to the "Share some work examples or insight" lane]
+
+
 # [Give your example a name] 
 
 [Add a brief description of the example (which service it was used, what it was used for), this will help others identify if this example is suitable for what they need] 
