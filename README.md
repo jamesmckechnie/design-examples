@@ -38,3 +38,8 @@ Use this space to:
 2. Add images, user research or any additional information if this could help with understanding 
 3. Add some tags to help people find it
 4. Post and drag your question to the "Start or join a discussion" lane
+
+How to
+1. Click on start a new discussion
+
+![](Hnet.com-image.gif)
