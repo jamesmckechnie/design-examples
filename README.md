@@ -42,4 +42,4 @@ Use this space to:
 How to
 1. Click on start a new discussion
 
-![](https://gph.is/g/ZnDO2XB)
+![Start a discussion](https://media.giphy.com/media/GBvMN4B6bHo6yqnPbN/giphy.gif)
