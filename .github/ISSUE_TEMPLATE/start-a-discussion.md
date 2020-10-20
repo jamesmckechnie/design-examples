@@ -7,12 +7,9 @@ assignees: ''
 
 ---
 
-[Delete all content in brackets before posting
+[Delete me: 
 
 1. Before posting ensure your question has not already been answered on the questions project space
-
-2. Be as specific as you can be when asking a question
-
-3. Add images, user research or any additional information if this could help with understanding 
-
-4. Share question on our slack channel to ensure people see it]
+2. Add images, user research or any additional information if this could help with understanding 
+3. Add some tags to help people find it
+4. Post and drag your question to the "Start or join a discussion" lane]
