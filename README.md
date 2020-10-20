@@ -25,8 +25,8 @@ Use this space to:
 1. Check you are able to share - ask your team and read our <a href="#">security guidelines</a>
 2. Upload images or gifs
 3. Add as much supporting information as you can to help other designers, including research and links
-4. Add labels to help people find your submission and milestones to give context 
-5. Post and drag your question to the "Share some work or insight" lane
+4. Apply labels to help people find your submission and milestones to give context 
+5. Submit, go to the Project space and drag your post to the "Share some work or insight" lane
 
 <h2>Guidelines for starting a discussion</h2> 
 
@@ -34,13 +34,13 @@ Use this space to:
 
 <a href="https://github.com/jamesmckechnie/design-examples/issues/new?assignees=&labels=question&template=start-a-discussion.md&title=%5BInsert+question+here%5D+">Start a discussion</a>
 
-1. Before posting ensure your question has not already been answered on the questions project space
+1. Before posting ensure your question has not already been answered on the <a href="https://github.com/jamesmckechnie/design-examples/projects/1">project space</a>
 2. Add images, user research or any additional information if this could help with understanding 
-3. Add some labels to help people find it
-4. Post and drag your question to the "Start or join a discussion" lane
+3. Apply some labels to help people find it
+4. Submit, go to the Project space and drag your question to the "Start or join a discussion" lane
 
 <h2>How to start a discussion or share your work</h2>
-1. Click on "Start or join a new discussion" or "Share your work"
+1. Click on "Start a new discussion" or "Share your work"
 
 ![Start a discussion](https://media.giphy.com/media/GBvMN4B6bHo6yqnPbN/giphy.gif)
 
