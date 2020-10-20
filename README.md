@@ -14,7 +14,6 @@ Use this space to:
 
 <li>share research relating to a style, component, pattern or content
 <br></br>
-<a href="url">How to & community guidelines</a>
 
 <h2>How to share a piece of work</h2> 
 
