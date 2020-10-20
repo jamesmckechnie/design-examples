@@ -2,7 +2,7 @@
 
 <b>This is a forum for the Home Office UCD community to explore interaction and content design examples, share work with other designers and to take part in community discussions</b>
 
-<a style="font-size: large;" href="https://github.com/jamesmckechnie/design-examples/projects">Go to the project space</a> 
+<a style="font-size: 20px" href="https://github.com/jamesmckechnie/design-examples/projects">Go to the project space</a> 
 
 Use this space to: 
 
