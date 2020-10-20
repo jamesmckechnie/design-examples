@@ -9,23 +9,23 @@ assignees: ''
 
 [Delete me:
 1. Check you are able to share - ask your team and read our <a href="#">security guidelines</a>
-2. Add images and supporting information
-3. Add tags to help people find it
-4. Post
-5. Got to Projects space and drag your post to "Share some work or insights" lane]
+2. Upload images or gifs
+3. Add as much supporting information as you can to help other designers, including research and links
+4. Apply labels to help people find your post and milestones to give context
+5. Submit, go to Projects space and drag your post to "Share some work or insights" lane]
 
 
-# [Give your example a name] 
+# [Give your submission a title that will help people quickly understand what it's about] 
 
-[Add a brief description of the example (which service it was used, what it was used for), this will help others identify if this example is suitable for what they need] 
+[Add a brief description of the example you're sharing, like which service it was used for and at what part of the user journey. This will help others understand the context and identify if this example is suitable for what they need] 
 
 ## User Research [optional]
 
-[Add user research here if there is any. This can help avoid repeating work and allow designers to make more informed choices on wether to use this design] 
+[Add a summary of your user research or usability testing insights here if there is any. This can help avoid repeating work and allow designers to make more informed choices on whether to use this design] 
 
 ## Accessibility [optional]
 
-[Add known accessibility issues with this design] 
+[Add known accessibility issues or other relevant insights about this design] 
 
 ## Code - [optional]
 
@@ -43,4 +43,4 @@ assignees: ''
 
 ## Additional information [optional]
 
-[Add additional information to help other designers (contact details, team details, references you used)
+[Add additional information to help other designers, like your contact or team details and the references you used. You can also include links to relevant Design System pages or backlog and the service where your example was used, if available)
