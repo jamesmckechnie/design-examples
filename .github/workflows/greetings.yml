@@ -1,0 +1,13 @@
+name: Greetings
+
+on: [, issues]
+
+jobs:
+  greeting:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/first-interaction@v1
+      with:
+        repo-token: ${{ secrets.GITHUB_TOKEN }}
+        issue-message: 'Hello goor sir, is this your first visit onto the issues page?'' first issue'
+        pr-message: 'Message that will be displayed on users'' first pr'
