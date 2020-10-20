@@ -16,7 +16,7 @@ Use this space to:
 
 <br> 
 
-<h2>How to share a piece of work</h2> 
+<h2>Guidelines for sharing a piece of work</h2> 
 
 <p>Share examples of a component, pattern or piece of work you have done</p>
 
@@ -28,7 +28,7 @@ Use this space to:
 4. Add tags to help people find it
 5. Post and drag your question to the "Share some work examples or insight" lane
 
-<h2>How to start a discussion</h2> 
+<h2>Guidelines for starting a discussion</h2> 
 
 <p>Start a discussion about a topic or ask a question to the community</p>
 
@@ -39,7 +39,35 @@ Use this space to:
 3. Add some tags to help people find it
 4. Post and drag your question to the "Start or join a discussion" lane
 
-How to
-1. Click on start a new discussion
+<h2>How to</h2>
+1. Click on 'start a new discussion' or 'share your work'
 
 ![Start a discussion](https://media.giphy.com/media/GBvMN4B6bHo6yqnPbN/giphy.gif)
+
+2. Enter in your question or give your work a title
+
+![Give it a title](https://media.giphy.com/media/Dfhl7EjUfSwLWkU2bR/giphy.gif)
+
+3. Write a description and add images using the rich text editor
+
+![Write a description](link)
+
+4. Add relevant labels to your post to make it more discoverable
+
+![Add labels](link)
+
+5. Add it to the Design examples project
+
+![Add to a project](link)
+
+6. Share by clicking on 'sumbit new issue'
+
+![Sumbit new issue](link)
+
+7. Navigate back to the project space
+
+![Navigate to project](link)
+
+8. Drag and drop your card from the new channel into the appropriate channel
+
+![Drag and drop](link)
