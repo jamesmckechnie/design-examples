@@ -50,7 +50,7 @@ Use this space to:
 
 3. Write a description and add images using the rich text editor
 
-![Write a description](link)
+![Write a description](https://media.giphy.com/media/i0kZjsbE3YJLXVP14b/giphy.gif)
 
 4. Add relevant labels to your post to make it more discoverable
 
