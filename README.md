@@ -42,4 +42,4 @@ Use this space to:
 How to
 1. Click on start a new discussion
 
-![](Hnet.com-image.gif)
+![](https://gph.is/g/ZnDO2XB)
