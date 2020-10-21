@@ -70,4 +70,4 @@ Use this space to:
 
 8. Drag and drop your card from the new channel into the appropriate channel
 
-![Drag and drop](https://media.giphy.com/media/Z1M4DKn0ZvofkpPUnm/giphy.gif)
+![Drag and drop](https://media.giphy.com/media/uOWlrx3lvSorqlPVPF/giphy.gif)
