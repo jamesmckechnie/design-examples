@@ -42,7 +42,7 @@ Use this space to:
 <h2>How to start a discussion or share your work</h2>
 1. Click on "Start a new discussion" or "Share your work"
 
-![Start a discussion](https://media.giphy.com/media/GBvMN4B6bHo6yqnPbN/giphy.gif)
+![Start a discussion](https://media.giphy.com/media/bxO4Bm3HxvYtPYOfWR/giphy.gif)
 
 2. Enter in your question or give your work a title
 
