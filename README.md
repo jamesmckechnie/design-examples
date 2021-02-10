@@ -71,3 +71,10 @@ Use this space to:
 8. Drag and drop your card from the new channel into the appropriate channel
 
 ![Drag and drop](https://media.giphy.com/media/uOWlrx3lvSorqlPVPF/giphy.gif)
+
+
+<a href="https://github.com/jamesmckechnie/design-examples/projects/1"><h2>Go to the project space</h2></a> 
+
+<a href="https://github.com/jamesmckechnie/design-examples/issues/new?assignees=&labels=&template=share-some-work.md&title=">Share a piece of work</a>
+
+<a href="https://github.com/jamesmckechnie/design-examples/issues/new?assignees=&labels=question&template=start-a-discussion.md&title=%5BInsert+question+here%5D+">Start a discussion</a>
