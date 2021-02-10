@@ -17,11 +17,13 @@ Use this space to:
 <br>  
 <h2>Security guidance</h2> 
 
-<li>Remove live data from your design examples
+Before you share:
+
+<li>remove live data from your design examples
   
-<li>Remove confidential elements of your design (ask you team if you are unsure)
+<li>remove confidential elements of your design (ask you team if you are unsure)
   
-<li>Do not mention the names of internal systems, and remove these from your designs before sharing 
+<li>do not mention the names of internal systems, and remove these from your designs before sharing 
 
 <h2>Guidelines for sharing a piece of work</h2> 
 
