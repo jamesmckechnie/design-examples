@@ -31,7 +31,7 @@ Before you share:
 
 <a href="https://github.com/jamesmckechnie/design-examples/issues/new?assignees=&labels=&template=share-some-work.md&title=">Share a piece of work</a>
 
-1. Check you are able to share - ask your team and read our security guidelines above
+1. Check you are able to share - ask your team and read our security guidance above
 2. Upload images or gifs
 3. Add as much supporting information as you can to help other designers, including research and links
 4. Apply labels to help people find your submission and milestones to give context 
